@@ -12,7 +12,7 @@ Substitute the values in the distance formula  ![formula](./formula1.png)
 ### PROGRAM:
 ```python
 #Program to find the distance between two points.
-#Developed by: 
+#Developed by:A.J.PRANAV
 #RegisterNumber:
 import math
 p1=[4,2]
