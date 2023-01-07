@@ -24,6 +24,6 @@ print("{:.2f}".format(d))
 ```
 
 ### OUTPUT:
-![label](./distbtw2pts.png)
+![label](distbtw2pts.png)
 ### RESULT:
 Thus the program for calculating the distance between the two points is successfully executed.
