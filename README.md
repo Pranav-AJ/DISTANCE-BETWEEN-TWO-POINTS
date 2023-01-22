@@ -10,7 +10,7 @@ Subtract the elements in the corresponding indices of the two lists.
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](./formula1.png)
 ### Step 4:
-Print the value. 
+Print the value
 ### Step 5: 
 End the program
 ### PROGRAM:
